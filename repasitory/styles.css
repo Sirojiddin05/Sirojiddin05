@@ -1,0 +1,15 @@
+body{background-color:black}
+h1{color:white;font-size:70px;text-align:center;}
+p{color:#00FF00;font-size:30px;}
+strong{color:indigo;}
+h2{color:white;font-size:50px}
+li{font-size:30px;}
+#list1{color:#8B008B;}
+#list2{color:#8B008B;}
+#list3{color:#8B008B;
+font-family:tahoma;}
+a:link{color:red;}
+a:visited{color:pink;}
+a:hover{color:yellow;}
+a:active{color:green;}
+img{width:500px;height:500px;}
